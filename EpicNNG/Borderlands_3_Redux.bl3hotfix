@@ -7835,7 +7835,6 @@ SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Chest_Gold/Animati
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Chest_Gold/Animation/AS_Open.AS_Open,RateScale,0,,3
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Chest_Trials/Animation/AS_Open.AS_Open,RateScale,0,,3
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Chest_Trials/Animation/AS_Open_v2.AS_Open_v2,RateScale,0,,3
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Chest_Typhon/Animation/AS_Open.AS_Open,RateScale,0,,3
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Crate_Ammo/Animations/AS_Open.AS_Open,RateScale,0,,3
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Dumpster_Small/Animation/AS_Open.AS_Open,RateScale,0,,3
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Lootables/_Global/Locker_Generic/Animation/AS_Open_Misnamed.AS_Open_Misnamed,RateScale,0,,3
@@ -15788,10 +15787,8 @@ SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/GameData/Loot/ItemPools/LootGol
 
 # DIA fix
 
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/Misc/DialogScript_EchoLogs_Typhon_De_Leon.DialogScript_EchoLogs_Typhon_De_Leon,TimeSlots,0,,()
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/CrewChallenges/DialogScript_Crew_Challenges_Writings.DialogScript_Crew_Challenges_Writings,TimeSlots,0,,()
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/CrewChallenges/DialogScript_Crew_Challenges_Vehicle.DialogScript_Crew_Challenges_Vehicle,TimeSlots,0,,()
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/CrewChallenges/DialogScript_Crew_Challenges_Typhon.DialogScript_Crew_Challenges_Typhon,TimeSlots,0,,()
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/CrewChallenges/DialogScript_Crew_Challenges_Salvage.DialogScript_Crew_Challenges_Salvage,TimeSlots,0,,()
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/CrewChallenges/DialogScript_Crew_Challenges_Sabotage.DialogScript_Crew_Challenges_Sabotage,TimeSlots,0,,()
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Dialog/Scripts/CrewChallenges/DialogScript_Crew_Challenges_Kill.DialogScript_Crew_Challenges_Kill,TimeSlots,0,,()
